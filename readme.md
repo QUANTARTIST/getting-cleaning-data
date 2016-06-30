@@ -1,11 +1,11 @@
 #Getting and Cleaning Data Course Project
-30 June, 2016
+QUANTARTIST | 30 June, 2016
 
 **Getting and Cleaning Data Course Project - Part of John Hopkin's Coursera Data Science Specialization**
 
 Primary project objective: Prepare tidy data that can be used for later analysis
 
-There are five steps involved in this project and these are detailed in run_analysis.R:
+There are five steps involved in this project and these are detailed in **run_analysis.R**:
 
 1. Merge the training and the test sets to create one data set
 2. Extract only the measurements on the mean and standard deviation for each measurement
