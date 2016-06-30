@@ -1,6 +1,7 @@
-<font size="6">text</font>Getting and Cleaning Data Course Project</font>
+<font size="20">Getting and Cleaning Data Course Project/font>
+30 June, 2016
 
-<font size="5">Getting and Cleaning Data Course Project - Part of John Hopkin's Coursera Data Science Specialization</font>
+<font size="15">Getting and Cleaning Data Course Project - Part of John Hopkin's Coursera Data Science Specialization</font>
 
 Primary project objective: Prepare tidy data that can be used for later analysis
 
