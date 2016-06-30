@@ -20,7 +20,7 @@ Eah record in the dataset contains the following attributes:
 
 ###Load Files
 
-Read the following files into R, assign column names and combine into one dataset:
+###Read the following files into R, assign column names and combine into one dataset:
 
 features.txt
 activity_labels.txt
@@ -38,7 +38,8 @@ Subset this data to keep only the required columns.
 
 ###Use descriptions to name the activities in the dataset
 
-Merge data subset with activityType table in order to inlude the descriptive activity descriptor
+Merge data subset with activityType table in order to inlude the descriptive activity name
+Apply gsub function for pattern replacement to clean up the data labels
 
 ###Create a second, independent tidy dataset with the average of each variable for each activity and each subject
 
