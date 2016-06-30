@@ -1,0 +1,18 @@
+<font size="6">text</font>Getting and Cleaning Data Course Project</font>
+
+<font size="5">Getting and Cleaning Data Course Project - Part of John Hopkin's Coursera Data Science Specialization</font>
+
+Primary project objective: Prepare tidy data that can be used for later analysis
+
+There are five steps involved in this project and these are detailed in run_analysis.R:
+
+1. Merge the training and the test sets to create one data set
+2. Extract only the measurements on the mean and standard deviation for each measurement
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
+
+The data for this project can be obtained here:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
