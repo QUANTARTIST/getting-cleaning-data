@@ -18,7 +18,7 @@ Eah record in the dataset contains the following attributes:
 4. Its activity label
 5. An identifier of the subject who carried out the experiment
 
-###Load Files
+Load Files
 
 ###Read the following files into R, assign column names and combine into one dataset:
 
@@ -32,7 +32,7 @@ x_test.txt
 y_test.txt
 
 ###Extract mean, standard deviation for each measurement
-
+	
 Form a logcal vector that contains TRUE values for the ID, mean and stdev columns and FALSE values for the remaining columns.
 Subset this data to keep only the required columns.
 
